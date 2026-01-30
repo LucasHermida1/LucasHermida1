@@ -22,18 +22,18 @@
 
 <p align="center">
   <img 
-    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1800&auto=format&fit=crop" 
+    src="https://lucashermida.com/img/mi-setup-red.jpg" 
     alt="Banner"
   />
 </p>
 
 ---
 
-## Perfil
+## Yo
 
-Desarrollador web enfocado en construir interfaces y sistemas que sean simples de usar, fáciles de mantener y coherentes a largo plazo. Valoro el código limpio, las decisiones justificadas y los productos que se sienten sólidos desde el primer uso.
+Desarrollador web muy apasionado, con un gran disfrute por la programación y todo lo que se puede lograr a nivel de páginas web y sus múltiples aristas. Desde pequeño me sumergí en este mundo modificando cosas puntuales usando Inspeccionar elemento en diversas webs que utilizaba a diario. Ahí me di cuenta de que podía poner mi nombre en algún título o subtítulo, cambiar descripciones, o que si iba donde decía src="" y pegaba un link a cualquier otra cosa, lograba que eso se viera en la web,  incluso sacar los molestos anuncios que permanecian en los bordes de la web y que sus animaciones me distraían del juego en cuestion.
 
-No busco solo que “funcione”, busco que esté bien hecho.
+El golpe de realidad vino después: al recargar la página, absolutamente todo lo que había modificado desaparecía. Tristeza, pero también una revelación. Ahí entendí que quería saber cómo hacer para que no se vaya 😄.
 
 ---
 
