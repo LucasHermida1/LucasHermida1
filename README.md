@@ -1,32 +1,90 @@
-<!-- If you enjoyed this, please consider giving a star to the repository on my GitHub profile. -->
+<h1 align="center">Lucas</h1>
 
-  <!-- Welcome -->
-<h1  align="center">¡Hola Mundo! Soy Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-  <!-- Typing Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=ROBOT&duration=2500&size=20&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Desarrollador+Web+Full+Stack+SSR.">
+  <sub>Web Developer SSR· Construcción de productos digitales</sub>
 </p>
 
-  <!-- Profile Picture -->
-<img align="left" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRsdjFkcXA4eHZmanJiZGcwZ2Q2NmI0dm80eG5nY2EybzhsNWxsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mcsPU3SkKrYDdW3aAU/giphy.gif"/>
+<br/>
 
-  <!-- Description -->
-```diff
-🛠️ +3 años de experiencia como desarrollador web, trabajando en proyectos reales.
-✔️ Desarrollo sistemas listos para uso comercial, pensados para escalar.
-👨‍💻 Actualmente desempeño el rol de desarrollador semi senior.
-🚀 Brindar soluciones de calidad y modernas es a lo que me dedico.
-✨ Disfruto programar por lo que permite crear, mejorar y resolver.
-💻 Cada sistema hecho tiene intención y proposito claro.
-```
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-rafael-hermida-mohana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/lucashermida.web/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://lucashermida.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
-  <!-- Socials -->
-##
-<p align="right">
-  <span>
-    <a href="https://lucashermida.com" target="_blank"><img src="https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=pfsense&logoColor=white&logoSize=30" alt="PORTAFOLIO" height="25" /></a>
-    <a href="https://www.linkedin.com/in/lucas-rafael-hermida-mohana/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25" /></a>
-  </span>
+<br/>
+
+<p align="center">
+  <img 
+    src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1800&auto=format&fit=crop" 
+    alt="Banner"
+  />
+</p>
+
+---
+
+## Perfil
+
+Desarrollador web enfocado en construir interfaces y sistemas que sean simples de usar, fáciles de mantener y coherentes a largo plazo. Valoro el código limpio, las decisiones justificadas y los productos que se sienten sólidos desde el primer uso.
+
+No busco solo que “funcione”, busco que esté bien hecho.
+
+---
+
+## Proyectos
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <a href="https://lucashermida.com/e-commerce/inicio">
+          <img 
+            src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=900&auto=format&fit=crop"
+            alt="E-commerce Platform"
+            width="100%"
+            height="230"
+            style="object-fit: cover;"
+          />
+        </a>
+        <br/><br/>
+        <strong>E-commerce Platform</strong>
+        <br/>
+        <sub>
+          Mi primer plataforma de e-commerce, desarrollada completamente desde cero para comprender las estructuras clave de un sistema real, sus necesidades y por qué hoy se utilizan frameworks que simplifican y escalan soluciones.
+          <br/>
+          <em>Spoiler: valió la pena.</em>
+        </sub>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <a href="https://lucashermida.com/presencia-flash/">
+          <img 
+            src="https://images.unsplash.com/photo-1600267165477-6d4cc741b379?q=80&w=900&auto=format&fit=crop"
+            alt="Presencia Flash"
+            width="100%"
+            height="230"
+            style="object-fit: cover;"
+          />
+        </a>
+        <br/><br/>
+        <strong>Presencia Flash</strong>
+        <br/>
+        <sub>
+          Sitio demostrativo orientado a mostrar a un posible cliente cómo puede verse su negocio o emprendimiento en la web, priorizando impacto visual, claridad y carga rápida.
+        </sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <sub>
+    Proyectos seleccionados. Cada tarjeta redirige a una sección específica de mi portfolio con contexto, decisiones técnicas y resultado final.
+  </sub>
 </p>
 
