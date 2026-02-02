@@ -37,7 +37,7 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
 
 ---
 
-## Proyectos
+## Proyectos Comercializables
 
 <p align="center">
   <table>
