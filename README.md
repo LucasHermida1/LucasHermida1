@@ -45,7 +45,7 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
       <td align="center" width="50%" valign="top">
         <a href="https://lucashermida.com/e-commerce/inicio">
           <img 
-            src="https://images.unsplash.com/photo-1555949963-aa79dcee981c?q=80&w=900&auto=format&fit=crop"
+            src="https://lucashermida.com/img/mundops-ecommerce.png"
             alt="E-commerce Platform"
             width="100%"
             height="230"
@@ -64,7 +64,7 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
       <td align="center" width="50%" valign="top">
         <a href="https://lucashermida.com/presencia-flash/">
           <img 
-            src="https://images.unsplash.com/photo-1600267165477-6d4cc741b379?q=80&w=900&auto=format&fit=crop"
+            src="https://lucashermida.com/img/presencia-flash.png"
             alt="Presencia Flash"
             width="100%"
             height="230"
