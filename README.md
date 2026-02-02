@@ -37,7 +37,7 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
 
 ---
 
-## Proyectos Comercializables
+## Primeros Proyectos Comercializables - DEMO
 
 <p align="center">
   <table>
@@ -85,6 +85,42 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
 <p align="center">
   <sub>
     Proyectos seleccionados. Cada tarjeta redirige a una sección específica de mi portfolio con contexto, decisiones técnicas y resultado final.
+  </sub>
+</p>
+
+## Proyectos Vendidos 
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <a href="https://adrianamieres.uy/">
+          <img 
+            src="https://lucashermida.com/img/adrianam-ecommerce.png"
+            alt="E-commerce de Adrianamieres "
+            width="100%"
+            height="230"
+            style="object-fit: cover;"
+          />
+        </a>
+        <br/><br/>
+        <strong>E-commerce para Adriana Mieres</strong>
+        <br/>
+        <sub>
+Desarrollo de una plataforma de comercio electrónico completa para una marca referente en estética y extensiones capilares en Uruguay. El proyecto abarca desde la arquitectura backend hasta la experiencia de usuario final, priorizando escalabilidad, seguridad y claridad visual.
+<br/><br/>
+La aplicación fue construida sobre Laravel 12, con una estructura sólida, buenas prácticas de desarrollo y control de accesos, integrando lógica de negocio personalizada para la gestión de productos, pedidos y clientes. El frontend se desarrolló con Tailwind CSS, logrando una interfaz limpia, coherente con la identidad de la marca y optimizada para distintos dispositivos.
+<br/><br/>
+El resultado es un e-commerce funcional, mantenible y preparado para crecimiento, pensado tanto para el uso cotidiano del cliente como para futuras extensiones del sistema.
+</sub>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <sub>
+    Proyectos gestionados y mantenidos por Lucas Hermida. Sujetos a mejoras y actualizaciones de funcionalidades. 
   </sub>
 </p>
 
