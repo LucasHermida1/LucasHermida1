@@ -52,19 +52,15 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
             style="object-fit: cover;"
           />
         </a>
-
         <br/><br/>
-
         <strong>E-commerce Platform</strong>
         <br/>
-
         <sub>
           Mi primer plataforma de e-commerce, desarrollada completamente desde cero para comprender las estructuras clave de un sistema real, sus necesidades y por qué hoy se utilizan frameworks que simplifican y escalan soluciones.
           <br/>
           <em>Spoiler: valió la pena.</em>
         </sub>
       </td>
-
       <td align="center" width="50%" valign="top">
         <a href="https://lucashermida.com/presencia-flash/">
           <img 
@@ -75,12 +71,9 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
             style="object-fit: cover;"
           />
         </a>
-
         <br/><br/>
-
         <strong>Presencia Flash</strong>
         <br/>
-
         <sub>
           Sitio demostrativo orientado a mostrar a un posible cliente cómo puede verse su negocio o emprendimiento en la web, priorizando impacto visual, claridad y carga rápida.
         </sub>
