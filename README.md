@@ -96,7 +96,7 @@ El golpe de realidad vino después: al recargar la página, absolutamente todo l
   <table>
     <tr>
       <td align="center" width="50%" valign="top">
-        <a href="https://adrianamieres.uy/">
+        <a href="https://adrianamieres.com.uy/">
           <img 
             src="https://lucashermida.com/img/adrianam-ecommerce.png"
             alt="E-commerce de Adrianamieres"
