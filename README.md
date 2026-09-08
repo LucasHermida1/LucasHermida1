@@ -126,10 +126,11 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <strong>Eliceche</strong> · Alfajores artesanales
       <br/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/Catálogo-4F46E5?style=flat-square" alt="Catálogo"/>
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+      <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
+      <img src="https://img.shields.io/badge/E--commerce-4F46E5?style=flat-square" alt="E-commerce"/>
+      <img src="https://img.shields.io/badge/SEO-111827?style=flat-square" alt="SEO"/>
       <br/><br/>
-      <sub>La landing ya está en su dominio, con el pedido por WhatsApp a un toque, mientras se arma el catálogo online.</sub>
+      <sub>Antes cada pedido entraba por mensaje y se cobraba por transferencia. Ahora la tienda cobra con Mercado Pago, con stock real y avisos por mail.</sub>
       <br/><br/>
       <a href="https://eliceche.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/eliceche"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
