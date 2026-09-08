@@ -121,7 +121,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://lucashermida.com/casos/saturna"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://eliceche.com"><img src="assets/eliceche.webp" alt="Eliceche" width="100%"/></a>
+      <a href="https://eliceche.com"><img src="assets/eliceche-marca.webp" alt="Eliceche" width="100%"/></a>
       <br/><br/>
       <strong>Eliceche</strong> · Alfajores artesanales
       <br/>
