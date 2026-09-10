@@ -40,7 +40,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <br/>
 
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: seis trabajos reales
+## 🚀 En producción: siete trabajos reales
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema, el modelo de datos y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
@@ -135,6 +135,23 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://eliceche.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/eliceche"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://cerrajeriabrian.com"><img src="assets/brian.webp" alt="Cerrajería Brian" width="100%"/></a>
+      <br/><br/>
+      <strong>Cerrajería Brian</strong> · Cerrajería a domicilio
+      <br/>
+      <img src="https://img.shields.io/badge/HTML_y_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML y CSS"/>
+      <img src="https://img.shields.io/badge/SEO_local-111827?style=flat-square" alt="SEO local"/>
+      <img src="https://img.shields.io/badge/Datos_estructurados-4F46E5?style=flat-square" alt="Datos estructurados"/>
+      <br/><br/>
+      <sub>Un cerrajero 24 horas que quiere aparecer en Google. Su dominio ya está publicado mientras se termina la web, pensada para posicionar.</sub>
+      <br/><br/>
+      <a href="https://cerrajeriabrian.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
+      <a href="https://lucashermida.com/casos/cerrajeria-brian"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
