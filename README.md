@@ -146,7 +146,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <img src="https://img.shields.io/badge/SEO_local-111827?style=flat-square" alt="SEO local"/>
       <img src="https://img.shields.io/badge/Datos_estructurados-4F46E5?style=flat-square" alt="Datos estructurados"/>
       <br/><br/>
-      <sub>Un cerrajero 24 horas que quiere aparecer en Google. Su dominio ya está publicado mientras se termina la web, pensada para posicionar.</sub>
+      <sub>Un cerrajero 24 horas que quiere aparecer en Google. Web propia en su dominio: quince servicios, urgencias con llamada directa, preguntas frecuentes marcadas para Google y fotos en WebP.</sub>
       <br/><br/>
       <a href="https://cerrajeriabrian.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/cerrajeria-brian"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
