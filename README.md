@@ -40,7 +40,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <br/>
 
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: ocho trabajos reales
+## 🚀 En producción: nueve trabajos reales
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema, el modelo de datos y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
@@ -166,6 +166,24 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://onheelsuy.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/on-heels"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://lucashermida.com/graciela-lempert/"><img src="assets/graciela-marca.webp" alt="Graciela Lempert" width="100%"/></a>
+      <br/><br/>
+      <strong>Graciela Lempert</strong> · Artista visual
+      <br/>
+      <img src="https://img.shields.io/badge/HTML_y_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML y CSS"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/Generador_en_Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
+      <img src="https://img.shields.io/badge/En_construcción-8A5A3C?style=flat-square" alt="En construcción"/>
+      <br/><br/>
+      <sub>Más de cien obras matéricas, por serie y con la ficha de cada una. Una web pensada como galería, en construcción.</sub>
+      <br/><br/>
+      <a href="https://lucashermida.com/graciela-lempert/"><img src="https://img.shields.io/badge/▶_Ver_la_vista_previa-4F46E5?style=flat-square" alt="Vista previa"/></a>
+      <a href="https://lucashermida.com/casos/graciela-lempert"><img src="https://img.shields.io/badge/Cómo_se_hace-111827?style=flat-square" alt="Caso"/></a>
+    </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
