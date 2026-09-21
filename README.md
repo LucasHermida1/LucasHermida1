@@ -176,9 +176,10 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <img src="https://img.shields.io/badge/HTML_y_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML y CSS"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/Generador_en_Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
+      <img src="https://img.shields.io/badge/Bilingüe-111827?style=flat-square" alt="Bilingüe"/>
       <img src="https://img.shields.io/badge/En_construcción-8A5A3C?style=flat-square" alt="En construcción"/>
       <br/><br/>
-      <sub>Más de cien obras matéricas, por serie y con la ficha de cada una. Una web pensada como galería, en construcción.</sub>
+      <sub>68 obras matéricas en tres series, en una galería sin scroll que salta directo a cada serie. En español e inglés, en construcción.</sub>
       <br/><br/>
       <a href="https://lucashermida.com/graciela-lempert/"><img src="https://img.shields.io/badge/▶_Ver_la_vista_previa-4F46E5?style=flat-square" alt="Vista previa"/></a>
       <a href="https://lucashermida.com/casos/graciela-lempert"><img src="https://img.shields.io/badge/Cómo_se_hace-111827?style=flat-square" alt="Caso"/></a>
