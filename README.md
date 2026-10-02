@@ -39,8 +39,41 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 
 <br/>
 
+<!-- ══════════════════════ DESTACADO ══════════════════════ -->
+## ⭐ Destacado: MiSplash
+
+<p align="center">
+  <a href="https://misplash.com/negocios"><img src="assets/misplash.webp" alt="MiSplash: cuatro negocios de ejemplo, cada uno con su marca, sobre el mismo sistema" width="100%"/></a>
+</p>
+
+**SaaS multi-negocio en producción.** Cada negocio tiene su página para que le reserven turnos y le compren, y un panel para manejar el día: agenda por profesional, pedidos, clientes, finanzas y campañas. Un solo sistema, y cada negocio con su marca, su subdominio y sus datos aparte.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
+  <img src="https://img.shields.io/badge/Multi--tenant-4F46E5?style=flat-square" alt="Multi-tenant"/>
+  <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
+</p>
+
+| | |
+|---|---|
+| **Aislamiento entre negocios** | Cada pedido entra por la dirección del negocio; cada consulta lleva su filtro por defecto, y hay pruebas que fallan si una tarea lee datos sin él. |
+| **Cobros** | Suscripciones con Mercado Pago, cambio de plan a mitad de período y conciliación de cobros. Cada negocio cobra señas y pedidos en su propia cuenta, sin comisión. |
+| **Calidad** | 1.103 pruebas automáticas, más de 200 rutas, 28 temas de página y despliegue con respaldo y pruebas previas. |
+| **Alta de un negocio** | Unos 15 minutos: cuenta, servicios o productos, y el link para compartir. Planes pagos con subdominio propio, creado de forma automática. |
+
+<p align="center">
+  <a href="https://misplash.com/negocios"><img src="https://img.shields.io/badge/▶_Ver_misplash.com-4F46E5?style=flat-square" alt="MiSplash"/></a>
+  <a href="https://misplash.com/t/barberia"><img src="https://img.shields.io/badge/Probar_un_negocio_de_ejemplo-111827?style=flat-square" alt="Negocio de ejemplo"/></a>
+  <br/><sub>Código privado.</sub>
+</p>
+
+<br/>
+
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: nueve trabajos reales
+## 🚀 En producción: nueve trabajos más
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema, el modelo de datos y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
