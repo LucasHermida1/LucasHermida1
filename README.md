@@ -72,155 +72,66 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 
 <br/>
 
-<!-- ══════════════════════ DESTACADO: SATURNA ══════════════════════ -->
-## ⭐ Destacado: Saturna
-
-<p align="center">
-  <a href="https://queridasaturna.com"><img src="assets/saturna-destacado.webp" alt="Saturna: la tienda en el celular, con el inicio, el catálogo, una prenda y la elección de color y talle" width="100%"/></a>
-</p>
-
-**Tienda online en producción.** La tienda de una marca de ropa hecha en Uruguay: catálogo por talle y color, packs y prendas que se hacen a pedido. Cobra con Mercado Pago en la cuenta de la dueña, confirma cada pedido sola, descuenta el stock y les avisa por mail a la clienta y a la dueña.
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
-  <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
-  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-  <img src="https://img.shields.io/badge/Alpine-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine"/>
-</p>
-
-| | |
-|---|---|
-| **Cobro que se confirma solo** | Mercado Pago en la cuenta de la dueña. Cuando el pago se acredita, la tienda confirma el pedido, descuenta el stock y manda los mails, aunque la clienta no vuelva a la página. |
-| **Stock real, también a pedido** | Cada talle y color dice si está hecho y se retira enseguida, o si se hace en 7 a 10 días. Lo que no se hace nunca, no se ofrece. |
-| **Panel para la dueña** | Pedidos con su estado y un botón directo a WhatsApp, la lista de prendas para hacer, el stock bajo y las fotos del inicio, sin tocar código. |
-| **Calidad** | 460 pruebas automáticas sobre el camino de la plata, el stock y los pedidos. |
-
-<p align="center">
-  <a href="https://queridasaturna.com"><img src="https://img.shields.io/badge/▶_Ver_queridasaturna.com-4F46E5?style=flat-square" alt="Saturna"/></a>
-  <a href="https://lucashermida.com/casos/saturna"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
-  <br/><sub>Código privado.</sub>
-</p>
-
-<br/>
-
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: siete trabajos más
+## 🚀 En producción: ocho trabajos más
 
-<sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema, el modelo de datos y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
+<sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
 <table>
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
+      <a href="https://queridasaturna.com"><img src="assets/saturna-web.webp" alt="Saturna" width="100%"/></a>
+      <br/><strong>Saturna</strong><br/><sub>Tienda de ropa</sub>
+      <br/><sub>Cobra con Mercado Pago, confirma cada pedido y descuenta el stock sola.</sub>
+      <br/><sub><a href="https://queridasaturna.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/saturna">Cómo se hizo</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://adrianamieres.com.uy"><img src="assets/adriana-web.webp" alt="Adriana Mieres" width="100%"/></a>
-      <br/><br/>
-      <strong>Adriana Mieres</strong> · Equipamiento de medicina estética
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
-      <img src="https://img.shields.io/badge/Multi--sucursal-4F46E5?style=flat-square" alt="Multi-sucursal"/>
-      <img src="https://img.shields.io/badge/SEO-111827?style=flat-square" alt="SEO"/>
-      <br/><br/>
-      <sub>Antes coordinaba cada pedido por WhatsApp. Ahora la tienda cobra sola.</sub>
-      <br/><br/>
-      <a href="https://adrianamieres.com.uy"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
-      <a href="https://lucashermida.com/casos/adriana-mieres"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
+      <br/><strong>Adriana Mieres</strong><br/><sub>Medicina estética</sub>
+      <br/><sub>De coordinar cada pedido por WhatsApp a una tienda que cobra sola.</sub>
+      <br/><sub><a href="https://adrianamieres.com.uy">Ver el sitio</a> · <a href="https://lucashermida.com/casos/adriana-mieres">Cómo se hizo</a></sub>
     </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://lucashermida.com/casos/janet-guzman"><img src="assets/janet.webp" alt="Dra. Janet Guzmán" width="100%"/></a>
-      <br/><br/>
-      <strong>Dra. Janet Guzmán</strong> · Consultorio médico-estético
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
-      <img src="https://img.shields.io/badge/Livewire-4E56A6?style=flat-square&logo=livewire&logoColor=white" alt="Livewire"/>
-      <img src="https://img.shields.io/badge/Volt-111827?style=flat-square" alt="Volt"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-      <br/><br/>
-      <sub>La historia clínica, los tratamientos, los cursos y los gastos del consultorio, en un solo lugar. Sistema privado.</sub>
-      <br/><br/>
-      <a href="https://lucashermida.com/casos/janet-guzman"><img src="https://img.shields.io/badge/Ver_el_caso-111827?style=flat-square" alt="Caso"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://psicnataliaaren.com"><img src="assets/natalia-web.webp" alt="Natalia Arén" width="100%"/></a>
-      <br/><br/>
-      <strong>Natalia Arén</strong> · Consultorio psicológico
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/Agenda-4F46E5?style=flat-square" alt="Agenda"/>
-      <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
-      <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square" alt="Blade"/>
-      <br/><br/>
-      <sub>Los turnos se reservan desde la web, sin ida y vuelta para acordar la hora. Mi primer proyecto comercial.</sub>
-      <br/><br/>
-      <a href="https://psicnataliaaren.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
-      <a href="https://lucashermida.com/casos/natalia-aren"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
-    </td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://eliceche.com"><img src="assets/eliceche-web.webp" alt="Eliceche" width="100%"/></a>
-      <br/><br/>
-      <strong>Eliceche</strong> · Alfajores artesanales
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
-      <img src="https://img.shields.io/badge/E--commerce-4F46E5?style=flat-square" alt="E-commerce"/>
-      <img src="https://img.shields.io/badge/SEO-111827?style=flat-square" alt="SEO"/>
-      <br/><br/>
-      <sub>Antes cada pedido entraba por mensaje y se cobraba por transferencia. Ahora la tienda cobra con Mercado Pago, con stock real y avisos por mail.</sub>
-      <br/><br/>
-      <a href="https://eliceche.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
-      <a href="https://lucashermida.com/casos/eliceche"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
+      <br/><strong>Eliceche</strong><br/><sub>Alfajores artesanales</sub>
+      <br/><sub>Tienda con Mercado Pago, stock real y avisos por mail.</sub>
+      <br/><sub><a href="https://eliceche.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/eliceche">Cómo se hizo</a></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
+      <a href="https://psicnataliaaren.com"><img src="assets/natalia-web.webp" alt="Natalia Arén" width="100%"/></a>
+      <br/><strong>Natalia Arén</strong><br/><sub>Psicología</sub>
+      <br/><sub>Sesiones y talleres que se reservan y se pagan desde la web.</sub>
+      <br/><sub><a href="https://psicnataliaaren.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/natalia-aren">Cómo se hizo</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://onheelsuy.com"><img src="assets/onheels-web.webp" alt="On Heels" width="100%"/></a>
+      <br/><strong>On Heels</strong><br/><sub>Escuela de heels dance</sub>
+      <br/><sub>De vivir solo en Instagram a una web con las clases por nivel.</sub>
+      <br/><sub><a href="https://onheelsuy.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/on-heels">Cómo se hizo</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://cerrajeriabrian.com"><img src="assets/brian-web.webp" alt="Cerrajería Brian" width="100%"/></a>
-      <br/><br/>
-      <strong>Cerrajería Brian</strong> · Cerrajería a domicilio
-      <br/>
-      <img src="https://img.shields.io/badge/HTML_y_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML y CSS"/>
-      <img src="https://img.shields.io/badge/SEO_local-111827?style=flat-square" alt="SEO local"/>
-      <img src="https://img.shields.io/badge/Datos_estructurados-4F46E5?style=flat-square" alt="Datos estructurados"/>
-      <br/><br/>
-      <sub>Un cerrajero 24 horas que quiere aparecer en Google. Web propia en su dominio: quince servicios, urgencias con llamada directa, preguntas frecuentes marcadas para Google y fotos en WebP.</sub>
-      <br/><br/>
-      <a href="https://cerrajeriabrian.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
-      <a href="https://lucashermida.com/casos/cerrajeria-brian"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
-    </td>
-    <td align="center" width="50%" valign="top">
-      <a href="https://onheelsuy.com"><img src="assets/onheels-web.webp" alt="On Heels · Flor Terragni" width="100%"/></a>
-      <br/><br/>
-      <strong>On Heels · Flor Terragni</strong> · Escuela de heels dance
-      <br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
-      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
-      <img src="https://img.shields.io/badge/SEO_local-111827?style=flat-square" alt="SEO local"/>
-      <img src="https://img.shields.io/badge/Datos_estructurados-4F46E5?style=flat-square" alt="Datos estructurados"/>
-      <br/><br/>
-      <sub>Una escuela de baile que vivía solo en Instagram. Ahora tiene su web, con cada clase por nivel y la reserva a un mensaje.</sub>
-      <br/><br/>
-      <a href="https://onheelsuy.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
-      <a href="https://lucashermida.com/casos/on-heels"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
+      <br/><strong>Cerrajería Brian</strong><br/><sub>Cerrajería 24 h</sub>
+      <br/><sub>Hecha para aparecer en Google, con urgencias a una llamada.</sub>
+      <br/><sub><a href="https://cerrajeriabrian.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/cerrajeria-brian">Cómo se hizo</a></sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="33%" valign="top">
       <a href="https://lucashermida.com/graciela-lempert/"><img src="assets/graciela-web.webp" alt="Graciela Lempert" width="100%"/></a>
-      <br/><br/>
-      <strong>Graciela Lempert</strong> · Artista visual
-      <br/>
-      <img src="https://img.shields.io/badge/HTML_y_CSS-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML y CSS"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/Generador_en_Node-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node"/>
-      <img src="https://img.shields.io/badge/Bilingüe-111827?style=flat-square" alt="Bilingüe"/>
-      <img src="https://img.shields.io/badge/En_construcción-8A5A3C?style=flat-square" alt="En construcción"/>
-      <br/><br/>
-      <sub>68 obras matéricas en tres series, en una galería sin scroll que salta directo a cada serie. En español e inglés, en construcción.</sub>
-      <br/><br/>
-      <a href="https://lucashermida.com/graciela-lempert/"><img src="https://img.shields.io/badge/▶_Ver_la_vista_previa-4F46E5?style=flat-square" alt="Vista previa"/></a>
-      <a href="https://lucashermida.com/casos/graciela-lempert"><img src="https://img.shields.io/badge/Cómo_se_hace-111827?style=flat-square" alt="Caso"/></a>
+      <br/><strong>Graciela Lempert</strong><br/><sub>Artista visual</sub>
+      <br/><sub>68 obras en tres series, en español e inglés. En construcción.</sub>
+      <br/><sub><a href="https://lucashermida.com/graciela-lempert/">Ver la vista previa</a> · <a href="https://lucashermida.com/casos/graciela-lempert">Cómo se hizo</a></sub>
     </td>
-    <td width="50%"></td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://lucashermida.com/casos/janet-guzman"><img src="assets/janet.webp" alt="Dra. Janet Guzmán" width="100%"/></a>
+      <br/><strong>Dra. Janet Guzmán</strong><br/><sub>Consultorio médico-estético</sub>
+      <br/><sub>Historia clínica, tratamientos y gastos en un solo lugar. Sistema privado.</sub>
+      <br/><sub><a href="https://lucashermida.com/casos/janet-guzman">Ver el caso</a></sub>
+    </td>
+    <td width="33%"></td>
   </tr>
 </table>
 
