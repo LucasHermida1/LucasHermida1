@@ -84,7 +84,6 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <p align="center">
   <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
   <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Alpine-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine"/>
 </p>
