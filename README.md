@@ -72,8 +72,40 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 
 <br/>
 
+<!-- ══════════════════════ DESTACADO: SATURNA ══════════════════════ -->
+## ⭐ Destacado: Saturna
+
+<p align="center">
+  <a href="https://queridasaturna.com"><img src="assets/saturna-destacado.webp" alt="Saturna: la tienda en el celular, con el inicio, el catálogo, una prenda y la elección de color y talle" width="100%"/></a>
+</p>
+
+**Tienda online en producción.** La tienda de una marca de ropa hecha en Uruguay: catálogo por talle y color, packs y prendas que se hacen a pedido. Cobra con Mercado Pago en la cuenta de la dueña, confirma cada pedido sola, descuenta el stock y les avisa por mail a la clienta y a la dueña.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
+  <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Alpine-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" alt="Alpine"/>
+</p>
+
+| | |
+|---|---|
+| **Cobro que se confirma solo** | Mercado Pago en la cuenta de la dueña. Cuando el pago se acredita, la tienda confirma el pedido, descuenta el stock y manda los mails, aunque la clienta no vuelva a la página. |
+| **Stock real, también a pedido** | Cada talle y color dice si está hecho y se retira enseguida, o si se hace en 7 a 10 días. Lo que no se hace nunca, no se ofrece. |
+| **Panel para la dueña** | Pedidos con su estado y un botón directo a WhatsApp, la lista de prendas para hacer, el stock bajo y las fotos del inicio, sin tocar código. |
+| **Calidad** | 460 pruebas automáticas sobre el camino de la plata, el stock y los pedidos. |
+
+<p align="center">
+  <a href="https://queridasaturna.com"><img src="https://img.shields.io/badge/▶_Ver_queridasaturna.com-4F46E5?style=flat-square" alt="Saturna"/></a>
+  <a href="https://lucashermida.com/casos/saturna"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
+  <br/><sub>Código privado.</sub>
+</p>
+
+<br/>
+
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: nueve trabajos más
+## 🚀 En producción: ocho trabajos más
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema, el modelo de datos y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
@@ -140,20 +172,6 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://queridasaturna.com"><img src="assets/saturna.webp" alt="Saturna Tiny Vintage" width="100%"/></a>
-      <br/><br/>
-      <strong>Saturna · Tiny Vintage</strong> · Tienda de ropa vintage
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
-      <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
-      <img src="https://img.shields.io/badge/E--commerce-4F46E5?style=flat-square" alt="E-commerce"/>
-      <br/><br/>
-      <sub>Un e-commerce vintage en construcción, con la landing ya publicada mientras se completa el catálogo online.</sub>
-      <br/><br/>
-      <a href="https://queridasaturna.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
-      <a href="https://lucashermida.com/casos/saturna"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
-    </td>
-    <td align="center" width="50%" valign="top">
       <a href="https://eliceche.com"><img src="assets/eliceche-marca.webp" alt="Eliceche" width="100%"/></a>
       <br/><br/>
       <strong>Eliceche</strong> · Alfajores artesanales
@@ -168,8 +186,6 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://eliceche.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/eliceche"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://cerrajeriabrian.com"><img src="assets/brian.webp" alt="Cerrajería Brian" width="100%"/></a>
       <br/><br/>
@@ -184,6 +200,8 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://cerrajeriabrian.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/cerrajeria-brian"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://onheelsuy.com"><img src="assets/onheels-marca.webp" alt="On Heels · Flor Terragni" width="100%"/></a>
       <br/><br/>
@@ -199,8 +217,6 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://onheelsuy.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/on-heels"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%" valign="top">
       <a href="https://lucashermida.com/graciela-lempert/"><img src="assets/graciela-marca.webp" alt="Graciela Lempert" width="100%"/></a>
       <br/><br/>
@@ -217,7 +233,6 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://lucashermida.com/graciela-lempert/"><img src="https://img.shields.io/badge/▶_Ver_la_vista_previa-4F46E5?style=flat-square" alt="Vista previa"/></a>
       <a href="https://lucashermida.com/casos/graciela-lempert"><img src="https://img.shields.io/badge/Cómo_se_hace-111827?style=flat-square" alt="Caso"/></a>
     </td>
-    <td width="50%"></td>
   </tr>
 </table>
 
