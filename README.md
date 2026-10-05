@@ -104,14 +104,14 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <br/>
 
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: ocho trabajos más
+## 🚀 En producción: siete trabajos más
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema, el modelo de datos y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
 <table>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://adrianamieres.com.uy"><img src="assets/adriana.webp" alt="Adriana Mieres" width="100%"/></a>
+      <a href="https://adrianamieres.com.uy"><img src="assets/adriana-web.webp" alt="Adriana Mieres" width="100%"/></a>
       <br/><br/>
       <strong>Adriana Mieres</strong> · Equipamiento de medicina estética
       <br/>
@@ -142,12 +142,13 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
   </tr>
   <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://psicnataliaaren.com"><img src="assets/natalia.webp" alt="Natalia Arén" width="100%"/></a>
+      <a href="https://psicnataliaaren.com"><img src="assets/natalia-web.webp" alt="Natalia Arén" width="100%"/></a>
       <br/><br/>
       <strong>Natalia Arén</strong> · Consultorio psicológico
       <br/>
       <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel"/>
       <img src="https://img.shields.io/badge/Agenda-4F46E5?style=flat-square" alt="Agenda"/>
+      <img src="https://img.shields.io/badge/MercadoPago-009EE3?style=flat-square&logo=mercadopago&logoColor=white" alt="MercadoPago"/>
       <img src="https://img.shields.io/badge/Blade-F05340?style=flat-square" alt="Blade"/>
       <br/><br/>
       <sub>Los turnos se reservan desde la web, sin ida y vuelta para acordar la hora. Mi primer proyecto comercial.</sub>
@@ -156,22 +157,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://lucashermida.com/casos/natalia-aren"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
     <td align="center" width="50%" valign="top">
-      <a href="https://lucashermida.com/casos/plataforma-multi-tenant"><img src="assets/multitenant.webp" alt="Plataforma multi-organización" width="100%"/></a>
-      <br/><br/>
-      <strong>Plataforma multi-organización</strong> · Arquitectura
-      <br/>
-      <img src="https://img.shields.io/badge/Laravel_12-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel 12"/>
-      <img src="https://img.shields.io/badge/Multi--tenant-4F46E5?style=flat-square" alt="Multi-tenant"/>
-      <img src="https://img.shields.io/badge/Una_base_por_organización-111827?style=flat-square" alt="Base por organización"/>
-      <br/><br/>
-      <sub>Varias organizaciones sobre un mismo sistema, cada una con sus datos aislados y su propia marca. Sistema privado.</sub>
-      <br/><br/>
-      <a href="https://lucashermida.com/casos/plataforma-multi-tenant"><img src="https://img.shields.io/badge/Ver_el_caso-111827?style=flat-square" alt="Caso"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <a href="https://eliceche.com"><img src="assets/eliceche-marca.webp" alt="Eliceche" width="100%"/></a>
+      <a href="https://eliceche.com"><img src="assets/eliceche-web.webp" alt="Eliceche" width="100%"/></a>
       <br/><br/>
       <strong>Eliceche</strong> · Alfajores artesanales
       <br/>
@@ -185,8 +171,10 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://eliceche.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/eliceche"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://cerrajeriabrian.com"><img src="assets/brian.webp" alt="Cerrajería Brian" width="100%"/></a>
+      <a href="https://cerrajeriabrian.com"><img src="assets/brian-web.webp" alt="Cerrajería Brian" width="100%"/></a>
       <br/><br/>
       <strong>Cerrajería Brian</strong> · Cerrajería a domicilio
       <br/>
@@ -199,10 +187,8 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://cerrajeriabrian.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/cerrajeria-brian"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://onheelsuy.com"><img src="assets/onheels-marca.webp" alt="On Heels · Flor Terragni" width="100%"/></a>
+      <a href="https://onheelsuy.com"><img src="assets/onheels-web.webp" alt="On Heels · Flor Terragni" width="100%"/></a>
       <br/><br/>
       <strong>On Heels · Flor Terragni</strong> · Escuela de heels dance
       <br/>
@@ -216,8 +202,10 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://onheelsuy.com"><img src="https://img.shields.io/badge/▶_Ver_el_sitio-4F46E5?style=flat-square" alt="Sitio"/></a>
       <a href="https://lucashermida.com/casos/on-heels"><img src="https://img.shields.io/badge/Cómo_se_hizo-111827?style=flat-square" alt="Caso"/></a>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="50%" valign="top">
-      <a href="https://lucashermida.com/graciela-lempert/"><img src="assets/graciela-marca.webp" alt="Graciela Lempert" width="100%"/></a>
+      <a href="https://lucashermida.com/graciela-lempert/"><img src="assets/graciela-web.webp" alt="Graciela Lempert" width="100%"/></a>
       <br/><br/>
       <strong>Graciela Lempert</strong> · Artista visual
       <br/>
@@ -232,6 +220,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <a href="https://lucashermida.com/graciela-lempert/"><img src="https://img.shields.io/badge/▶_Ver_la_vista_previa-4F46E5?style=flat-square" alt="Vista previa"/></a>
       <a href="https://lucashermida.com/casos/graciela-lempert"><img src="https://img.shields.io/badge/Cómo_se_hace-111827?style=flat-square" alt="Caso"/></a>
     </td>
+    <td width="50%"></td>
   </tr>
 </table>
 
@@ -337,7 +326,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <img src="https://img.shields.io/badge/SaaS-111827?style=flat-square" alt="SaaS"/>
       <br/><br/>
       <sub>
-        Demo de sistema <strong>multi-tenant</strong> para federaciones de Taekwondo de Uruguay: una sola plataforma, múltiples organizaciones, cada una con sus datos aislados. La base de la plataforma multi-organización de arriba.
+        Demo de sistema <strong>multi-tenant</strong> para federaciones de Taekwondo de Uruguay: una sola plataforma, múltiples organizaciones, cada una con sus datos aislados.
       </sub>
       <br/><br/>
       <a href="https://github.com/LucasHermida1/tenant-platform"><img src="https://img.shields.io/badge/Ver_código-181717?style=flat-square&logo=github" alt="Código"/></a>
