@@ -80,19 +80,19 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <table>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://queridasaturna.com"><img src="assets/saturna-web.webp" alt="Saturna" width="100%"/></a>
+      <a href="https://queridasaturna.com"><img src="assets/saturna-tarjeta.webp" alt="Saturna" width="100%"/></a>
       <br/><strong>Saturna</strong><br/><sub>Tienda de ropa</sub>
       <br/><sub>Cobra con Mercado Pago, confirma cada pedido y descuenta el stock sola.</sub>
       <br/><sub><a href="https://queridasaturna.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/saturna">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://adrianamieres.com.uy"><img src="assets/adriana-web.webp" alt="Adriana Mieres" width="100%"/></a>
+      <a href="https://adrianamieres.com.uy"><img src="assets/adriana-tarjeta.webp" alt="Adriana Mieres" width="100%"/></a>
       <br/><strong>Adriana Mieres</strong><br/><sub>Medicina estética</sub>
       <br/><sub>De coordinar cada pedido por WhatsApp a una tienda que cobra sola.</sub>
       <br/><sub><a href="https://adrianamieres.com.uy">Ver el sitio</a> · <a href="https://lucashermida.com/casos/adriana-mieres">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://eliceche.com"><img src="assets/eliceche-web.webp" alt="Eliceche" width="100%"/></a>
+      <a href="https://eliceche.com"><img src="assets/eliceche-tarjeta.webp" alt="Eliceche" width="100%"/></a>
       <br/><strong>Eliceche</strong><br/><sub>Alfajores artesanales</sub>
       <br/><sub>Tienda con Mercado Pago, stock real y avisos por mail.</sub>
       <br/><sub><a href="https://eliceche.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/eliceche">Cómo se hizo</a></sub>
@@ -100,19 +100,19 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://psicnataliaaren.com"><img src="assets/natalia-web.webp" alt="Natalia Arén" width="100%"/></a>
+      <a href="https://psicnataliaaren.com"><img src="assets/natalia-tarjeta.webp" alt="Natalia Arén" width="100%"/></a>
       <br/><strong>Natalia Arén</strong><br/><sub>Psicología</sub>
       <br/><sub>Sesiones y talleres que se reservan y se pagan desde la web.</sub>
       <br/><sub><a href="https://psicnataliaaren.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/natalia-aren">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://onheelsuy.com"><img src="assets/onheels-web.webp" alt="On Heels" width="100%"/></a>
+      <a href="https://onheelsuy.com"><img src="assets/onheels-tarjeta.webp" alt="On Heels" width="100%"/></a>
       <br/><strong>On Heels</strong><br/><sub>Escuela de heels dance</sub>
       <br/><sub>De vivir solo en Instagram a una web con las clases por nivel.</sub>
       <br/><sub><a href="https://onheelsuy.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/on-heels">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://cerrajeriabrian.com"><img src="assets/brian-web.webp" alt="Cerrajería Brian" width="100%"/></a>
+      <a href="https://cerrajeriabrian.com"><img src="assets/brian-tarjeta.webp" alt="Cerrajería Brian" width="100%"/></a>
       <br/><strong>Cerrajería Brian</strong><br/><sub>Cerrajería 24 h</sub>
       <br/><sub>Hecha para aparecer en Google, con urgencias a una llamada.</sub>
       <br/><sub><a href="https://cerrajeriabrian.com">Ver el sitio</a> · <a href="https://lucashermida.com/casos/cerrajeria-brian">Cómo se hizo</a></sub>
@@ -120,13 +120,13 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://gracielalempert.uy"><img src="assets/graciela-web.webp" alt="Graciela Lempert" width="100%"/></a>
+      <a href="https://gracielalempert.uy"><img src="assets/graciela-tarjeta.webp" alt="Graciela Lempert" width="100%"/></a>
       <br/><strong>Graciela Lempert</strong><br/><sub>Artista visual</sub>
       <br/><sub>68 obras en tres series, en español e inglés, en su dominio.</sub>
       <br/><sub><a href="https://gracielalempert.uy">gracielalempert.uy</a> · <a href="https://lucashermida.com/casos/graciela-lempert">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
-      <a href="https://laletralibros.com"><img src="assets/laletra-web.webp" alt="La Letra Libros" width="100%"/></a>
+      <a href="https://laletralibros.com"><img src="assets/laletra-tarjeta.webp" alt="La Letra Libros" width="100%"/></a>
       <br/><strong>La Letra Libros</strong><br/><sub>Librería en Piriápolis</sub>
       <br/><sub>La librería online, con búsqueda por título, autor, editorial o ISBN. En construcción.</sub>
       <br/><sub><a href="https://laletralibros.com">laletralibros.com</a></sub>
