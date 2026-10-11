@@ -73,7 +73,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <br/>
 
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: ocho trabajos más
+## 🚀 En producción: nueve trabajos más
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
@@ -126,12 +126,17 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <br/><sub><a href="https://gracielalempert.uy">gracielalempert.uy</a> · <a href="https://lucashermida.com/casos/graciela-lempert">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
+      <a href="https://laletralibros.com"><img src="assets/laletra-web.webp" alt="La Letra Libros" width="100%"/></a>
+      <br/><strong>La Letra Libros</strong><br/><sub>Librería en Piriápolis</sub>
+      <br/><sub>La librería online, con búsqueda por título, autor, editorial o ISBN. En construcción.</sub>
+      <br/><sub><a href="https://laletralibros.com">laletralibros.com</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
       <a href="https://lucashermida.com/casos/janet-guzman"><img src="assets/janet.webp" alt="Dra. Janet Guzmán" width="100%"/></a>
       <br/><strong>Dra. Janet Guzmán</strong><br/><sub>Consultorio médico-estético</sub>
       <br/><sub>Historia clínica, tratamientos y gastos en un solo lugar. Sistema privado.</sub>
       <br/><sub><a href="https://lucashermida.com/casos/janet-guzman">Ver el caso</a></sub>
     </td>
-    <td width="33%"></td>
   </tr>
 </table>
 
