@@ -120,10 +120,10 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://lucashermida.com/graciela-lempert/"><img src="assets/graciela-web.webp" alt="Graciela Lempert" width="100%"/></a>
+      <a href="https://gracielalempert.uy"><img src="assets/graciela-web.webp" alt="Graciela Lempert" width="100%"/></a>
       <br/><strong>Graciela Lempert</strong><br/><sub>Artista visual</sub>
-      <br/><sub>68 obras en tres series, en español e inglés. En construcción.</sub>
-      <br/><sub><a href="https://lucashermida.com/graciela-lempert/">Ver la vista previa</a> · <a href="https://lucashermida.com/casos/graciela-lempert">Cómo se hizo</a></sub>
+      <br/><sub>68 obras en tres series, en español e inglés, en su dominio.</sub>
+      <br/><sub><a href="https://gracielalempert.uy">gracielalempert.uy</a> · <a href="https://lucashermida.com/casos/graciela-lempert">Cómo se hizo</a></sub>
     </td>
     <td align="center" width="33%" valign="top">
       <a href="https://lucashermida.com/casos/janet-guzman"><img src="assets/janet.webp" alt="Dra. Janet Guzmán" width="100%"/></a>
