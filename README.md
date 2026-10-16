@@ -73,7 +73,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <br/>
 
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: nueve trabajos más
+## 🚀 En producción: diez trabajos más
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
@@ -136,6 +136,14 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <br/><strong>Dra. Janet Guzmán</strong><br/><sub>Consultorio médico-estético</sub>
       <br/><sub>Historia clínica, tratamientos y gastos en un solo lugar. Sistema privado.</sub>
       <br/><sub><a href="https://lucashermida.com/casos/janet-guzman">Ver el caso</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://lucashermida.com/web/monarca-residencial/"><img src="assets/monarca-tarjeta.webp" alt="Residencial Monarca" width="100%"/></a>
+      <br/><strong>Residencial Monarca</strong><br/><sub>Residencial para adultos mayores</sub>
+      <br/><sub>Quién está a cargo, cómo es la casa y la visita coordinada por WhatsApp.</sub>
+      <br/><sub><a href="https://lucashermida.com/web/monarca-residencial/">Ver el sitio</a></sub>
     </td>
   </tr>
 </table>
