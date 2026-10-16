@@ -140,7 +140,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
   </tr>
   <tr>
     <td align="center" width="33%" valign="top">
-      <a href="https://lucashermida.com/web/monarca-residencial/"><img src="assets/monarca-tarjeta.webp" alt="Residencial Monarca" width="100%"/></a>
+      <a href="https://lucashermida.com/web/monarca-residencial/"><img src="assets/monarca-tarjeta-2.webp" alt="Residencial Monarca" width="100%"/></a>
       <br/><strong>Residencial Monarca</strong><br/><sub>Residencial para adultos mayores</sub>
       <br/><sub>Quién está a cargo, cómo es la casa y la visita coordinada por WhatsApp.</sub>
       <br/><sub><a href="https://lucashermida.com/web/monarca-residencial/">Ver el sitio</a></sub>
