@@ -73,7 +73,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
 <br/>
 
 <!-- ══════════════════════ EN PRODUCCIÓN ══════════════════════ -->
-## 🚀 En producción: diez trabajos más
+## 🚀 En producción: once trabajos más
 
 <sub>Cada uno resuelve un problema distinto. Los casos completos, con el problema y lo que cambió, están en <a href="https://lucashermida.com/#casos">lucashermida.com</a>.</sub>
 
@@ -144,6 +144,12 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
       <br/><strong>Residencial Monarca</strong><br/><sub>Residencial para adultos mayores</sub>
       <br/><sub>Quién está a cargo, cómo es la casa y la visita coordinada por WhatsApp.</sub>
       <br/><sub><a href="https://residencialmonarca.com">residencialmonarca.com</a></sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://enplano.com"><img src="assets/enplano-tarjeta.webp" alt="enPlano" width="100%"/></a>
+      <br/><strong>enPlano</strong><br/><sub>Plataforma de obra nueva en Uruguay</sub>
+      <br/><sub>El Drive de cada desarrollador, convertido en una página con sus unidades disponibles siempre al día.</sub>
+      <br/><sub><a href="https://enplano.com">enplano.com</a></sub>
     </td>
   </tr>
 </table>
