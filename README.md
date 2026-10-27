@@ -1,10 +1,10 @@
 <!-- ══════════════════════ HEADER ══════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=4F46E5&text=Lucas%20Hermida&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Desarrollador%20Web%20SSR%20%C2%B7%20Montevideo%2C%20Uruguay%20%F0%9F%87%BA%F0%9F%87%BE&descSize=17&descAlignY=52&animation=fadeIn" width="100%" alt="Lucas Hermida"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=4F46E5&text=Lucas%20Hermida&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=AI%20Product%20Engineer%20%C2%B7%20Montevideo%2C%20Uruguay%20%F0%9F%87%BA%F0%9F%87%BE&descSize=17&descAlignY=52&animation=fadeIn" width="100%" alt="Lucas Hermida"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4F46E5&center=true&vCenter=true&width=620&lines=Sistemas+a+medida+para+negocios+reales;Laravel+%C2%B7+PHP+%C2%B7+React+%C2%B7+Kotlin;Automatizaci%C3%B3n+con+agentes+de+IA" alt="Typing"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=4F46E5&center=true&vCenter=true&width=620&lines=Sistemas+a+medida+para+negocios+reales;Agentes+de+IA+en+producci%C3%B3n;Laravel+%C2%B7+PHP+%C2%B7+React+%C2%B7+Kotlin" alt="Typing"/>
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@
 
 Me metí en este mundo de chico, jugando con **"Inspeccionar elemento"**: ponía mi nombre en los títulos de las webs que usaba, cambiaba descripciones y hasta sacaba los anuncios que me distraían del juego de turno. Hasta que un día recargué la página… y todo desapareció 😅.
 
-Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy hago sistemas y webs para negocios de Uruguay que resuelven algo que se hace a mano. Primero el problema, después la tecnología. Lo ves andando, no en maqueta, y queda en tu dominio.
+Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy soy **AI Product Engineer** en Montevideo: hago webs y sistemas para negocios de Uruguay que resuelven algo que se hace a mano, y construyo con agentes de IA que corren todos los días en producción. Primero el problema, después la tecnología. Lo ves andando, no en maqueta, y queda en tu dominio.
 
 <p align="center">
   <img src="https://lucashermida.com/img/mi-setup-red.jpg" alt="Mi setup" width="85%"/>
@@ -164,6 +164,22 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy ha
     <td width="33%" valign="top"><strong>1 · Primero el problema</strong><br/><sub>Qué se hace a mano hoy, cuánto tiempo lleva y qué se pierde en el camino. La tecnología viene después.</sub></td>
     <td width="33%" valign="top"><strong>2 · Lo ves andando, no en maqueta</strong><br/><sub>Trabajás sobre el sistema real, funcionando, y se ajusta sobre eso.</sub></td>
     <td width="33%" valign="top"><strong>3 · Queda tuyo</strong><br/><sub>Publicado en tu dominio, con tus datos adentro. Sigo cerca para lo que aparezca después.</sub></td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ══════════════════════ NIVEL ══════════════════════ -->
+## 🛠️ Con qué nivel trabajo
+
+<table>
+  <tr>
+    <td width="50%" valign="top"><strong>Agentes de IA en producción</strong><br/><sub>Sistemas donde varios agentes trabajan juntos, con controles y revisión, todos los días.</sub></td>
+    <td width="50%" valign="top"><strong>Automatización de punta a punta</strong><br/><sub>Desde que entra un dato hasta que sale el mail, el cobro o el informe, sin nadie en el medio.</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><strong>Costos medidos</strong><br/><sub>Cada sistema corre con un presupuesto real: sé cuánto cuesta cada tarea y la optimizo.</sub></td>
+    <td width="50%" valign="top"><strong>Visión por computadora e ingeniería inversa</strong><br/><sub>Modelos que corren en mi equipo y leen imágenes y video, y sistemas desarmados para entender cómo funcionan por dentro.</sub></td>
   </tr>
 </table>
 
