@@ -29,7 +29,7 @@
 
 Me metí en este mundo de chico, jugando con **"Inspeccionar elemento"**: ponía mi nombre en los títulos de las webs que usaba, cambiaba descripciones y hasta sacaba los anuncios que me distraían del juego de turno. Hasta que un día recargué la página… y todo desapareció 😅.
 
-Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy soy **AI Product Engineer** en Montevideo: hago webs y sistemas para negocios de Uruguay que resuelven algo que se hace a mano, y construyo con agentes de IA que corren todos los días en producción. Primero el problema, después la tecnología. Lo ves andando, no en maqueta, y queda en tu dominio.
+Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy soy **AI Product Engineer** en Montevideo: hago webs y sistemas para negocios de Uruguay que resuelven algo que se hace a mano, y construyo con agentes de IA que corren todos los días en producción.
 
 <p align="center">
   <img src="https://lucashermida.com/img/mi-setup-red.jpg" alt="Mi setup" width="85%"/>
@@ -113,18 +113,6 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy so
       <br/><strong>Residencial Monarca</strong><br/><sub>Residencial para adultos mayores</sub>
       <br/><sub><a href="https://residencialmonarca.com">residencialmonarca.com</a></sub>
     </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ══════════════════════ CÓMO TRABAJO ══════════════════════ -->
-## 🧭 Cómo trabajo
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><strong>1 · Lo ves andando, no en maqueta</strong><br/><sub>Trabajás sobre el sistema real, funcionando, y se ajusta sobre eso.</sub></td>
-    <td width="50%" valign="top"><strong>2 · Queda tuyo</strong><br/><sub>Publicado en tu dominio, con tus datos adentro. Sigo cerca para lo que aparezca después.</sub></td>
   </tr>
 </table>
 
