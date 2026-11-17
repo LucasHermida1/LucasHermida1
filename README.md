@@ -114,6 +114,14 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy so
       <br/><sub><a href="https://residencialmonarca.com">residencialmonarca.com</a></sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" valign="top">
+      <a href="https://cerrajeriaandes.com"><img src="assets/andes-tarjeta.webp" alt="Cerrajería Andes" width="100%"/></a>
+      <br/><strong>Cerrajería Andes</strong><br/><sub>Cerrajería automotriz · en construcción</sub>
+      <br/><sub><a href="https://cerrajeriaandes.com">cerrajeriaandes.com</a></sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
 
 <br/>
