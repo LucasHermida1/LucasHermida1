@@ -98,7 +98,7 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy so
     </td>
     <td align="center" width="50%" valign="top">
       <a href="https://laletralibros.com"><img src="assets/laletra-tarjeta.webp" alt="La Letra Libros" width="100%"/></a>
-      <br/><strong>La Letra Libros</strong><br/><sub>Librería en Piriápolis</sub>
+      <br/><strong>La Letra Libros</strong><br/><sub>Librería en Piriápolis · tienda online con 9.853 libros</sub>
       <br/><sub><a href="https://laletralibros.com">laletralibros.com</a></sub>
     </td>
   </tr>
@@ -120,7 +120,11 @@ Ahí entendí que quería aprender a hacer que los cambios **se queden**. Hoy so
       <br/><strong>Cerrajería Andes</strong><br/><sub>Cerrajería automotriz · en construcción</sub>
       <br/><sub><a href="https://cerrajeriaandes.com">cerrajeriaandes.com</a></sub>
     </td>
-    <td width="50%"></td>
+    <td align="center" width="50%" valign="top">
+      <a href="https://www.maltahomestay.com.uy"><img src="assets/malta-tarjeta.webp" alt="Malta Homestay" width="100%"/></a>
+      <br/><strong>Malta Homestay</strong><br/><sub>Alojamiento con desayuno en José Ignacio</sub>
+      <br/><sub><a href="https://www.maltahomestay.com.uy">maltahomestay.com.uy</a></sub>
+    </td>
   </tr>
 </table>
 
